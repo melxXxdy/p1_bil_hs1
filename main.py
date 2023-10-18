@@ -1,4 +1,21 @@
-#dosya paylaşımı buradan yapılacak gençler
-import random
-rn = random.randint(0,100)
-print(rn)
+# print('asdas')
+# print(13453)
+# print("merhaba dünya\nmerhaba dünya\nmerhaba dünya")
+# print("oqopq"+"owsoap")
+# print(input("selam, adın nedir?"))
+# print("Merhaba " + input("İsmin Ne?")) 
+# print(len(input("Adın Ne?")))
+# isim = input("Merhaba ismin ne?")
+# print(isim)
+# print("Merhaba" + isim)
+# isim = "Evet"
+# print(isim)
+# name = "Evet"
+# print(name)
+# name = "Aynen"
+# print(name)
+# isim = input("Merhaba adın nedir?")
+# uzunluk = len(isim)
+# print(uzunluk)
+sayı1 = input("1. sayıyı giriniz")
+sayı2 = input("2. sayıyı giriniz")
